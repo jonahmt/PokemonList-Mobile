@@ -1,0 +1,201 @@
+[
+  {
+    "name" : "Bulbasaur",
+    "pokedexNum" : "001",
+    "type": "Grass, Poison",
+    "firstEV" : "Ivysaur",
+    "secondEV" : "Venusaur",
+    "generation" : "1"
+  },
+  {
+    "name" : "Charmander",
+    "pokedexNum" : "004",
+    "type": "Fire",
+    "firstEV" : "Charmeleon",
+    "secondEV" : "Charizard",
+    "generation" : "1"
+  },
+  {
+    "name" : "Squirtle",
+    "pokedexNum" : "007",
+    "type": "Water",
+    "firstEV" : "Wartortle",
+    "secondEV" : "Blastoise",
+    "generation" : "1"
+  },
+  
+  {
+    "name" : "Chikorita",
+    "pokedexNum" : "152",
+    "type": "Grass",
+    "firstEV" : "Bayleef",
+    "secondEV" : "Meganium",
+    "generation" : "2"
+  },
+  {
+    "name" : "Cyndaquil",
+    "pokedexNum" : "155",
+    "type": "Fire",
+    "firstEV" : "Quilava",
+    "secondEV" : "Typhlosion",
+    "generation" : "2"
+  },
+  {
+    "name" : "Totodile",
+    "pokedexNum" : "158",
+    "type": "Water",
+    "firstEV" : "Croconaw",
+    "secondEV" : "Feraligatr",
+    "generation" : "2"
+  },
+  
+  {
+    "name" : "Treecko",
+    "pokedexNum" : "252",
+    "type": "Grass",
+    "firstEV" : "Grovyle",
+    "secondEV" : "Sceptile",
+    "generation" : "3"
+  },
+  {
+    "name" : "Torchic",
+    "pokedexNum" : "255",
+    "type": "Fire",
+    "firstEV" : "Combusken",
+    "secondEV" : "Blaziken",
+    "generation" : "3"
+  },
+  {
+    "name" : "Mudkip",
+    "pokedexNum" : "258",
+    "type": "Water",
+    "firstEV" : "Marshtomp",
+    "secondEV" : "Swampert",
+    "generation" : "3"
+  },
+  
+  {
+    "name" : "Turtwig",
+    "pokedexNum" : "387",
+    "type": "Grass",
+    "firstEV" : "Grotle",
+    "secondEV" : "Torterra",
+    "generation" : "4"
+  },
+  {
+    "name" : "Chimchar",
+    "pokedexNum" : "390",
+    "type": "Fire",
+    "firstEV" : "Monferno",
+    "secondEV" : "Infernape",
+    "generation" : "4"
+  },
+  {
+    "name" : "Piplup",
+    "pokedexNum" : "393",
+    "type": "Water",
+    "firstEV" : "Prinplup",
+    "secondEV" : "Empoleon",
+    "generation" : "4"
+  },
+  
+  {
+    "name" : "Snivy",
+    "pokedexNum" : "495",
+    "type": "Grass",
+    "firstEV" : "Servine",
+    "secondEV" : "Serperior",
+    "generation" : "5"
+  },
+  {
+    "name" : "Tepig",
+    "pokedexNum" : "498",
+    "type": "Fire",
+    "firstEV" : "Pignite",
+    "secondEV" : "Emboar",
+    "generation" : "5"
+  },
+  {
+    "name" : "Oshawott",
+    "pokedexNum" : "501",
+    "type": "Water",
+    "firstEV" : "Dewott",
+    "secondEV" : "Samurott",
+    "generation" : "5"
+  },
+  
+  {
+    "name" : "Chespin",
+    "pokedexNum" : "650",
+    "type": "Grass",
+    "firstEV" : "Quilladin",
+    "secondEV" : "Chesnaught",
+    "generation" : "6"
+  },
+  {
+    "name" : "Fennekin",
+    "pokedexNum" : "653",
+    "type": "Fire",
+    "firstEV" : "Braixen",
+    "secondEV" : "Delphox",
+    "generation" : "6"
+  },
+  {
+    "name" : "Froakie",
+    "pokedexNum" : "656",
+    "type": "Water",
+    "firstEV" : "Frogadier",
+    "secondEV" : "Greninja",
+    "generation" : "6"
+  },
+  
+  {
+    "name" : "Rowlet",
+    "pokedexNum" : "722",
+    "type": "Grass, Flying",
+    "firstEV" : "Dartrix",
+    "secondEV" : "Decidueye",
+    "generation" : "7"
+  },
+  {
+    "name" : "Litten",
+    "pokedexNum" : "725",
+    "type": "Fire",
+    "firstEV" : "Torracat",
+    "secondEV" : "Incineroar",
+    "generation" : "7"
+  },
+  {
+    "name" : "Popplio",
+    "pokedexNum" : "728",
+    "type": "Water",
+    "firstEV" : "Brionne",
+    "secondEV" : "Primarina",
+    "generation" : "7"
+  },
+  
+  {
+    "name" : "Grookey",
+    "pokedexNum" : "810",
+    "type": "Grass",
+    "firstEV" : "Thwackey",
+    "secondEV" : "Rillaboom",
+    "generation" : "8"
+  },
+  {
+    "name" : "Scorbunny",
+    "pokedexNum" : "813",
+    "type": "Fire",
+    "firstEV" : "Raboot",
+    "secondEV" : "Cinderace",
+    "generation" : "8"
+  },
+  {
+    "name" : "Sobble",
+    "pokedexNum" : "816",
+    "type": "Water",
+    "firstEV" : "Drizzile",
+    "secondEV" : "Inteleon",
+    "generation" : "8"
+  }
+]
